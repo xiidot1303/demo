@@ -1,4 +1,7 @@
 IP: 149.154.161.8
  User-Agent: TelegramBot (like TwitterBot)IP: 213.230.78.46
  User-Agent: Mozilla/5.0 (Linux; Android 7.0; SM-G920K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36IP: 216.66.105.70
- User-Agent: Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-N960U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36
+ User-Agent: Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-N960U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36IP: 149.154.161.17
+ User-Agent: TelegramBot (like TwitterBot)IP: 213.230.78.46
+ User-Agent: Mozilla/5.0 (Linux; Android 10; SM-A115F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36IP: 23.228.129.4
+ User-Agent: Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G965U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36
